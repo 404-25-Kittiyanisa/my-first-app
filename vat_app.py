@@ -6,4 +6,4 @@ st.header(f"• ภาษีมูลค่าเพิ่ม (VAT 7%): **{vat:.
 net_price = price - vat
 st.header(f"• ราคาสุทธิ: {net_price:.2f} บาท")
 st.divider()
-st.write("นางสาวกฤติญาณิศา แก้วคำ เลขที่ 25  ม.4/4")
+st.write("นางสาวกฤติญาณิศา แก้วคำ เลขที่ 25  ม.4/4"
